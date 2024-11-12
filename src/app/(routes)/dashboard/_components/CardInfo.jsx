@@ -1,5 +1,5 @@
-import formatNumber from "../../../../../utils";
-import getFinancialAdvice from "../../../../../utils/getFinancialAdvice";
+import formatNumber from "../../../../utils";
+import getFinancialAdvice from "../../../../utils/getFinancialAdvice";
 import {
   PiggyBank,
   ReceiptText,
